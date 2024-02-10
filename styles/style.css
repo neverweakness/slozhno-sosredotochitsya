@@ -286,9 +286,6 @@
       position: absolute;
       width: 25px;
       height: 25px;
-    }
-
-    .header::after {
       bottom: 20px;
       left: 20px;
       border-bottom: 1px solid var(--accent-color);
