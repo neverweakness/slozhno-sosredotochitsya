@@ -297,6 +297,7 @@
   .section__article-list {
     display: flex;
     flex-wrap: wrap;
+    width: 65%;
   }
 
   .section-card:first-of-type {
@@ -314,10 +315,6 @@
   }
 
   .section__third-article-list {
-    width: 65%;
-  }
-
-  .section__article-list {
     width: 65%;
   }
 
